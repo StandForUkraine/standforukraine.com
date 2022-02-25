@@ -1,3 +1,0 @@
-* install yarn
-* `yarn install`
-
